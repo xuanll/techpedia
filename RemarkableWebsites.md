@@ -5,4 +5,4 @@
 
 ## 工具
 ### 网络工具
-- [测速](https://fast.com)
+- [网速测试](https://fast.com)
