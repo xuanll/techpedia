@@ -6,3 +6,6 @@
 ## 工具
 ### 网络工具
 - [网速测试](https://fast.com)
+
+### 测试网站是否被墙
+- [被墙了么](http://www.websitepulse.com/help/testtools.china-test.html)
