@@ -10,3 +10,15 @@
 
 ## notepad++快捷键
 - `Ctrl+Q`Win下，注释
+
+### 格式化输出`%02d`输出带占位符0的数据
+```
+    string.format("  %02d", number)
+```
+
+### lua中调用父类方法
+1. 父类 = require("父类")
+2. 子类中 父类.(self, param[])调用
+
+### lua类变量不用local修饰
+~~local~~ UITerritory.logic = nil
