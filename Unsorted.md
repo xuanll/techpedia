@@ -22,3 +22,9 @@
 
 ### lua类变量不用local修饰
 ~~local~~ UITerritory.logic = nil
+
+### Json对象字符串格式，最外层需要加`{}`
+
+  ```Json
+  {"title":{"str": "titleStr"}}
+  ```
