@@ -28,3 +28,7 @@
   ```Json
   {"title":{"str": "titleStr"}}
   ```
+
+### UV
+> UV 是一种标准化了的 2D 坐标系统，等同于 XY 坐标系统，为了不和 XY 混淆，用 U 和 V 分别表示对应的 X 和 Y。UV 系统中， (0, 0) 表示左纹理的下角，(1, 1) 表示纹理的右上角。
+[Rocky Lai's blog](http://blog.shuiguzi.com/2016/07/03/TilingAndOffset/)
