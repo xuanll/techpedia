@@ -34,7 +34,7 @@
 [Rocky Lai's blog](http://blog.shuiguzi.com/2016/07/03/TilingAndOffset/)
 
 ### Code陷阱
-- 判断和`or`的混用，下列情况判断语句永远为真（`or`后的字符串为true）；即使改成`cell.identifier == ("left" or "right")`则语句等价于`cell.identifier == "left"`
+- 判断和`or`的混用，下列情况判断语句永远为真（`or`后的字符串为true）；即使改成`cell.identifier == ("left" or "right")`也无济于事，后面代码语句等价于`cell.identifier == "left"`
 ```lua
 	if cell.identifier == "left" or "right" then
 		-- logics here
