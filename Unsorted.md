@@ -32,3 +32,11 @@
 ### UV
 > UV 是一种标准化了的 2D 坐标系统，等同于 XY 坐标系统，为了不和 XY 混淆，用 U 和 V 分别表示对应的 X 和 Y。UV 系统中， (0, 0) 表示左纹理的下角，(1, 1) 表示纹理的右上角。
 [Rocky Lai's blog](http://blog.shuiguzi.com/2016/07/03/TilingAndOffset/)
+
+### Code陷阱
+- 判断和`or`的混用，下列情况判断语句永远为真（`or`后的字符串为true）；即使改成`cell.identifier == ("left" or "right")`也无济于事，后面代码语句等价于`cell.identifier == "left"`
+```lua
+	if cell.identifier == "left" or "right" then
+		-- logics here
+	end
+```
