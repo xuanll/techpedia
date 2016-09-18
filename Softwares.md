@@ -10,3 +10,6 @@ http://www.workrave.org/
 
 # snipaste: Windows下截图工具
 https://zh.snipaste.com/
+
+# Honeyview: Windows看图软件
+https://www.bandisoft.com/honeyview/cn/
