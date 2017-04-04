@@ -46,7 +46,5 @@
 
 - `int` 32位 $\ -2^{31}$ ~ $\ 2^{31}$ 即 -2147483648 ~ 2147483648(十亿级,10位数)
 
-### ASCII
-
-[ASCII在线工具](http://tool.oschina.net/commons?type=4)
-
+### 中文特性
+- UTF-8字符集中，中文占3个字节 [字符集](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
