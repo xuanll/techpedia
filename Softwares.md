@@ -13,3 +13,6 @@ https://zh.snipaste.com/
 
 # Honeyview: Windows平台看图软件
 https://www.bandisoft.com/honeyview/cn/
+
+# Clover
+http://cn.ejie.me
