@@ -22,4 +22,4 @@
 - [JSON Editor Online](http://jsoneditoronline.org/)
 
 ### TTS朗读
-- [赛微语音合成(TTS)](http://vois3.cyberon.com.tw/cloud_tts/pc_tts.php#)
+- [赛微语音合成(TTS)](http://vois3.cyberon.com.tw/cloud_tts/pc_tts.php#)  download audio: http://vois3.cyberon.com.tw/cloud_tts/tts.php#
