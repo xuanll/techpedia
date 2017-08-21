@@ -8,10 +8,10 @@ http://www.picpick.org/
 http://www.workrave.org/
 [小众软件workrave介绍](http://www.appinn.com/workrave/)
 
-# snipaste: Windows平台截图工具
+# snipaste: Windows平台截图工具(强烈推荐)
 https://zh.snipaste.com/
 
-# Honeyview: Windows平台看图软件
+# Honeyview: Windows平台看图软件(强烈推荐)
 https://www.bandisoft.com/honeyview/cn/
 
 # Clover
