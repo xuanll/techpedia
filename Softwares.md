@@ -14,5 +14,13 @@ https://zh.snipaste.com/
 # Honeyview: Windows平台看图软件(强烈推荐)
 https://www.bandisoft.com/honeyview/cn/
 
-# Clover
-http://cn.ejie.me
+# ~~Clover(已有广告，不推荐)~~
+~~http://cn.ejie.me~~
+
+# QTTabBar: Windows资源管理器增强
+[小众软件QTTabBar介绍](http://www.appinn.com/qttabbar/)
+[QTTabBar官网及下载地址](http://qttabbar.wikidot.com)
+
+# QuickLook: Windows平台，空格预览增强
+[GitHub主页](https://github.com/xupefei/QuickLook)
+[(V2EX)"同类软件的鼻祖” Seer 抄走了我的 GPL 代码去卖钱……](https://www.v2ex.com/t/379088?p=2)
