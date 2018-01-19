@@ -17,13 +17,6 @@
 ### 原型设计工具
 - [墨刀](https://modao.cc/)
 
-## JSON相关
-### 验证JSON合法性
-- [JSONLint](http://jsonlint.com/)
-
-### 生成JSON工具
-- [JSON Editor Online](http://jsoneditoronline.org/)
-
 ### TTS朗读
 - [赛微语音合成(TTS)](http://vois3.cyberon.com.tw/cloud_tts/pc_tts.php#)  download audio: http://vois3.cyberon.com.tw/cloud_tts/tts.php#
 
@@ -32,3 +25,12 @@
 
 ### IP归属地查询
 - [Ip.cn](http://ip.cn/)
+
+## JSON相关
+### 验证JSON合法性
+- [JSONLint](http://jsonlint.com/)
+
+### 生成JSON工具
+- [JSON Editor Online](http://jsoneditoronline.org/)
+
+
