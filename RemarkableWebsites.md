@@ -29,3 +29,6 @@
 
 ### 网络记事本`notepad.pw`
 - [Notepad.pw](notepad.pw)
+
+### IP归属地查询
+- [Ip.cn](http://ip.cn/)
