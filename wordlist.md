@@ -15,3 +15,9 @@
 
 ## convex
 凸起的
+
+## CLR
+Common Language Runtime
+
+## IL
+Intermediate Language/ MSIL
