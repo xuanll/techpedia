@@ -9,3 +9,9 @@
 
 ## verbal
 口头的
+
+## Occlusion Culling
+遮挡剔除
+
+## convex
+凸起的
