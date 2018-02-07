@@ -28,4 +28,4 @@ https://www.bandisoft.com/honeyview/cn/
 [(V2EX)"同类软件的鼻祖” Seer 抄走了我的 GPL 代码去卖钱……](https://www.v2ex.com/t/379088?p=2)
 
 # VirtualWin: Windows平台系统增强，多桌面软件
-[VirtualWin 下载地址](http://virtuawin.sourceforge.net/)
+http://virtuawin.sourceforge.net/
