@@ -8,7 +8,7 @@ http://www.picpick.org/
 http://www.workrave.org/
 [小众软件workrave介绍](http://www.appinn.com/workrave/)
 
-# snipaste: Windows平台截图工具(强烈推荐)
+# snipaste: Windows平台截图工具(强烈推荐，现已支持Mac版beta)
 https://zh.snipaste.com/
 
 # Honeyview: Windows平台看图软件(强烈推荐)
