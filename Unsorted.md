@@ -56,3 +56,7 @@
 [ASCII在线工具](http://tool.oschina.net/commons?type=4)
 
 ![](pic/ASCII.png)
+
+
+### 导出Feedly订阅源
+Feedly订阅导出直接访问网址：http://feedly.com/i/opml
