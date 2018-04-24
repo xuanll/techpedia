@@ -15,7 +15,7 @@
 - [savefrom](http://en.savefrom.net)
 
 ### 原型设计工具
-- [墨刀](https://modao.cc/)
+- [墨刀(移动设备平台)](https://modao.cc/)
 
 ### TTS朗读
 - [赛微语音合成(TTS)](http://vois3.cyberon.com.tw/cloud_tts/pc_tts.php#)  download audio: http://vois3.cyberon.com.tw/cloud_tts/tts.php#
