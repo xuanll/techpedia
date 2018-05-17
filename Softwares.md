@@ -32,3 +32,7 @@ http://virtuawin.sourceforge.net/
 
 # 护眼睛灵： Windows平台护眼软件
 https://www.eyeloveucare.com/cn/
+
+# Rooster for Chrome™
+
+# Save Page WE
