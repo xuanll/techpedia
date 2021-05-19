@@ -20,7 +20,7 @@
 ### TTS朗读
 - [赛微语音合成(TTS)](http://vois3.cyberon.com.tw/cloud_tts/pc_tts.php#)  download audio: http://vois3.cyberon.com.tw/cloud_tts/tts.php#
 
-### 网络记事本`notepad.pw`
+### 网络记事本`notepad.pw`(过期、暂无替代)
 - [notepad.pw](https://notepad.pw)
 
 ### IP归属地查询
